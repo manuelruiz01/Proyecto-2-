@@ -1,0 +1,14 @@
+C:\Users\manue\OneDrive\Escritorio\Proyectos Lab\Proyecto2b\obj\Debug\net8.0\Proyecto2b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\OneDrive\Escritorio\Proyectos Lab\Proyecto2b\obj\Debug\net8.0\Proyecto2b.AssemblyInfoInputs.cache
+C:\Users\manue\OneDrive\Escritorio\Proyectos Lab\Proyecto2b\obj\Debug\net8.0\Proyecto2b.AssemblyInfo.cs
+C:\Users\manue\OneDrive\Escritorio\Proyectos Lab\Proyecto2b\obj\Debug\net8.0\Proyecto2b.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Escritorio\Proyectos Lab\Proyecto2b\bin\Debug\net8.0\Proyecto2b.exe
+C:\Users\manue\OneDrive\Escritorio\Proyectos Lab\Proyecto2b\bin\Debug\net8.0\Proyecto2b.deps.json
+C:\Users\manue\OneDrive\Escritorio\Proyectos Lab\Proyecto2b\bin\Debug\net8.0\Proyecto2b.runtimeconfig.json
+C:\Users\manue\OneDrive\Escritorio\Proyectos Lab\Proyecto2b\bin\Debug\net8.0\Proyecto2b.dll
+C:\Users\manue\OneDrive\Escritorio\Proyectos Lab\Proyecto2b\bin\Debug\net8.0\Proyecto2b.pdb
+C:\Users\manue\OneDrive\Escritorio\Proyectos Lab\Proyecto2b\obj\Debug\net8.0\Proyecto2b.dll
+C:\Users\manue\OneDrive\Escritorio\Proyectos Lab\Proyecto2b\obj\Debug\net8.0\refint\Proyecto2b.dll
+C:\Users\manue\OneDrive\Escritorio\Proyectos Lab\Proyecto2b\obj\Debug\net8.0\Proyecto2b.pdb
+C:\Users\manue\OneDrive\Escritorio\Proyectos Lab\Proyecto2b\obj\Debug\net8.0\Proyecto2b.genruntimeconfig.cache
+C:\Users\manue\OneDrive\Escritorio\Proyectos Lab\Proyecto2b\obj\Debug\net8.0\ref\Proyecto2b.dll
